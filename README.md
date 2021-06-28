@@ -12,4 +12,4 @@
 
 ## 原理
 
-参考我的博客`http://linkmecry.cn/2021/06/04/go%E6%90%AD%E5%BB%BAhttp%E6%9C%8D%E5%8A%A1%E5%99%A8/`
+参考我的博客`http://linkmecry.cn/2021/06/28/UOS%E4%B8%8B%E5%AE%9E%E7%8E%B0%E9%94%AE%E7%9B%98%E4%BA%8B%E4%BB%B6%E6%8D%95%E6%8D%89/#more`
